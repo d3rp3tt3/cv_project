@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-Patients often use daily and weekly pill organizers to make it easier to remember to take their medications. However, removing a medication from the prescription bottle can make it difficult to remember what a medication is. Even when a patient is familiar with what a medication looks like, a pharamacy may begin using a different manufacturer, which can result in a completely different appearance for that particular medication.
+Patients often use daily and weekly pill organizers to make it easier to remember to take their medications. However, removing a medication from the prescription bottle can make it difficult to remember what a medication is. Even when a patient is familiar with what a medication looks like, a pharmacy may begin using a different manufacturer, which can result in a completely different appearance for that particular medication.
 
 ## Project Goals
 
