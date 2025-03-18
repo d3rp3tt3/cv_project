@@ -4,11 +4,11 @@
 
 ## Problem Statement
 
-Patients often use daily and weekly pill organizers to make it easier to remember to take their medications. However, removing a medication from the prescription bottle can make it difficult to remember what a medication is. Even when a patient is familiar with what a medication looks like, a pharamacy may begin using a different manufacturer, which can result in a completely different appearance for that particular medication.
+Patients often use daily and weekly pill organizers to make it easier to remember to take their medications. However, removing a medication from the prescription bottle can make it difficult to remember what a medication is. Even when a patient is familiar with what a medication looks like, a pharmacy may begin using a different manufacturer, which can result in a completely different appearance for that particular medication.
 
 ## Project Goals
 
-This project aims to create a simple application to assist patients with identifying their medications by taking a photo and sharing it in a web app.
+This project aims to create a simple application to assist patients with identifying their medications by taking a photo and sharing it in a web app. The web app will determine what a pill's name is by using a neural network trained on over 1,000 reference images of prescription tablets and capsules.
 
 ## Methodology
 
