@@ -8,7 +8,7 @@ Patients often use daily and weekly pill organizers to make it easier to remembe
 
 ## Project Goals
 
-This project aims to create a simple application to assist patients with identifying their medications by taking a photo and sharing it in a web app.
+This project aims to create a simple application to assist patients with identifying their medications by taking a photo and sharing it in a web app. The web app will determine what a pill's name is by using a neural network trained on over 1,000 reference images of prescription tablets and capsules.
 
 ## Methodology
 
